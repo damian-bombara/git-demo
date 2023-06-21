@@ -2,8 +2,6 @@
 
 This is the first line of this repo.
 
-## Ipsum Below
+## Website Contents
 
-Blah blah blah...
-
-Adding some new lines to try the shortcut of adding and commiting at one step.
+1. index.html
